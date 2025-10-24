@@ -79,4 +79,7 @@ Our vision is to revolutionize digital estate planning by providing a trustless,
 4. Beneficiary calls `claimVault()` after unlock time with token ID
 5. Monitor events for transaction confirmation
 
+## Contract Details: 0xD4E33DCfAaa073451B571cb197794595ae50f2bd
+<img width="1914" height="1006" alt="image" src="https://github.com/user-attachments/assets/0de484b4-aad0-4298-8ed1-a16327cf4c17" />
+
 

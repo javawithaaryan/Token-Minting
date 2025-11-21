@@ -301,6 +301,10 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
+contract details:0x6825a0f0cFAF6FF3825621b59c2D0a752ad00966
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/048b5b18-b54c-488e-9d61-fda2b0db0c43"/>
+
+
 **⚠️ Disclaimer**: This smart contract is provided as-is without any guarantees. Users should conduct their own security review before using in production. Always test thoroughly on testnets before mainnet deployment.
 
 **Made with ❤️ for the Ethereum community**
